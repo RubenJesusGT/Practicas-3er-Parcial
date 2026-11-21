@@ -1,0 +1,30 @@
+{
+    "productos": [
+        {
+            "cantidad": 50,
+            "nombre": "Cheve",
+            "precio": 40.0
+        },
+        {
+            "cantidad": 41,
+            "nombre": "Licor",
+            "precio": 80.0
+        },
+        {
+            "cantidad": 450,
+            "nombre": "Cigarro",
+            "precio": 10.0
+        },
+        {
+            "cantidad": 60,
+            "nombre": "Jugo",
+            "precio": 25.0
+        },
+        {
+            "cantidad": 50,
+            "nombre": "Sabrita",
+            "precio": 20.0
+        }
+    ],
+    "tienda": "Tosjim"
+}
